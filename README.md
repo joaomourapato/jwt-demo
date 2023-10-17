@@ -1,5 +1,5 @@
 # jwt-demo
-This tool demonstrates the creation and verification of JSON Web Tokens. Main purpose is: coding challenge. 
+This tool demonstrates the creation and validation of JSON Web Tokens. Main purpose is: coding challenge. 
 The tool imports open source libraries "jjwt" recommended by a JWT reference site: https://jwt.io/libraries. The libraries are documented and available from: https://github.com/jwtk/jjwt
 
 **PRE-REQUISITES**
@@ -21,7 +21,7 @@ The tool runs from the command line console and repeatedly prompts for an option
 
 (1) Generates a new JWT. The user is asked to provide a value for the "data" parameter, part of the JWT payload.
 
-(2) Verifies a JWT. The user is asked to provide the JWT string. For a successful verification, suggest to copy/paste the JWT that is output of option (1)
+(2) Validates a JWT. The user is asked to provide the JWT string. For a successful validation, suggest to copy/paste the JWT that is output of option (1)
 
 (Other digit/text): Quits the tool. 
 
