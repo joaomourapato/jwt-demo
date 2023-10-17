@@ -3,7 +3,7 @@ This tool demonstrates the creation and validation of JSON Web Tokens. Main purp
 The tool imports open source libraries "jjwt" recommended by a JWT reference site: https://jwt.io/libraries. The libraries are documented and available from: https://github.com/jwtk/jjwt
 
 **PRE-REQUISITES**
-* Java SE or JRE minimum. No specific version but any version newer than 1.8 shall be ok.   
+* Java SE or JRE minimum. No specific version but any version newer than "8" shall be ok.   
 
 **HOW TO COMPILE AND RUN**
 1. Extract the release files to a folder of file system
