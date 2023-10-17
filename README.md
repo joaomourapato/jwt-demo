@@ -26,3 +26,6 @@ The tool runs from the command line console and repeatedly prompts for an option
 
 (Other digit/text): Quits the tool. 
 
+
+**REMARK**
+* Only one bonus point implemented: extend the utility with a possibility to validate the JWT
