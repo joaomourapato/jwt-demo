@@ -1,12 +1,13 @@
 # jwt-demo
 This tool demonstrates the creation and validation of JSON Web Tokens. Main purpose is: coding challenge. 
-The tool imports open source libraries "jjwt" recommended by a JWT reference site: https://jwt.io/libraries. The libraries are documented and available from: https://github.com/jwtk/jjwt
+The tool imports open source libraries "jjwt" recommended by a JWT reference site: https://jwt.io/libraries. The libraries are documented and available from: https://github.com/jwtk/jjwt .
+The signature algorith is HS512 using a fixed secret.
 
 **PRE-REQUISITES**
 * Java SE or JRE minimum. No specific version but any version newer than "8" shall be ok.   
 
 **HOW TO COMPILE AND RUN**
-1. Extract the release files to a folder of file system
+1. Extract the release files to a folder of the file system
 2. Use the command line and change to the main folder (/jwt-demo)
 3. Assuming JDK available, type the following command to compile:
    > javac -classpath "lib/*" "src/com/jwt/JwtDemo.java" -d "bin"
