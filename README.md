@@ -35,5 +35,5 @@ The tool runs from the command line console and repeatedly prompts for an option
 
 
 
-#### REMARK
+### REMARK
 * Only one bonus point implemented: extend the utility with a possibility to validate the JWT
